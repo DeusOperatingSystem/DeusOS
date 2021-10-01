@@ -1,4 +1,6 @@
-                           TempleOS
+                          These files present are not a representation of DeusOS, the files present are of the operating system that was written by the late Terry A. Davis that is known as TempleOS. DeusOS will be a refined operating system that will attempt to modernize and innovate upon Terry's work on things such as audio, performance in certain areas, security, appearance, compactibility, and general computing uses. It is not striving to be TempleOS, nor stating that it is not a good or standard peiece of software. We are simply innovating it to better fit modern-day uses, while still paying all respects possible to the family of Terry A. Davis and Terry himself.
+
+ TempleOS
 
 You can't do much until you burn a TempleOS CD/DVD from the ISO file
 and boot it, or you aim your virtual machine's CD/DVD at the ISO file
